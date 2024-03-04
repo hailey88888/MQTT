@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.demo.MQTT.MqttMessageHandlingTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-02T03:47:11" hostname="DESKTOP-TSFHSE0" time="0.584">
+  <properties/>
+  <testcase name="MQTT pub/sub媛꾩쓽 硫붿꽭吏� 諛쒗뻾 �뀒�뒪�듃" classname="com.demo.MQTT.MqttMessageHandlingTest" time="0.584"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
